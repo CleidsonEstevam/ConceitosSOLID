@@ -18,7 +18,7 @@ S ➡ Single Responsibility Principle (SRP): O princípio fala que uma classe de
 O ➡ Open Closed Principle (OCP): Clases devem estar abertas para expansão, mas, uma vez criadas, devem permanecer fechadas para modificações.<br/><br/>
 L ➡ Liskov Substitution Principle (LSP): Classes base devem ser substituíveis por suas classes derivadas, sem que a aplicação quebre.<br/><br/>
 I ➡ Interface Segregation Principle (ISP): Interfaces infladas devem ser eliminadas de nossos códigos, muitas interfaces específicas são melhores que uma interface única.<br/><br/>
-D ➡ Dependency Inversion Principle (DIP): Sempre sependa de uma abstração e não de uma implementação.
+D ➡ Dependency Inversion Principle (DIP): Sempre Dependa de uma abstração e não de uma implementação.
 </p>
 <br/>
 <h3 id="exemplo">✅ Alguns Problemas que o SOLID pode resolver:</h3>
